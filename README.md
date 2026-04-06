@@ -68,10 +68,10 @@ Install via **Arduino IDE → Tools → Manage Libraries**:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/rfid-lock.git
+   git clone https://github.com/B-Evtimov/RFID_Door_Lock
    ```
 
-2. Open `rfid_lock/rfid_lock.ino` in Arduino IDE.
+2. Open `cardkey.ino` in Arduino IDE.
 
 3. Install the required libraries (see above).
 
@@ -114,8 +114,8 @@ Servo → 0°
 ```
 rfid-lock/
 ├── rfid_lock/
-│   └── rfid_lock.ino
-├── wiring_diagram.png
+│   └── cardkey.ino
+├── wiring_diagram.svg
 ├── README.md
 └── LICENSE
 ```
