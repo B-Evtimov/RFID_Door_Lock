@@ -6,7 +6,7 @@ A compact access control system built with an RFID reader, servo motor, and buzz
 
 ## Wiring Diagram
 
-![Wiring Diagram](wiring_diagram.png)
+![Wiring Diagram](wiring_diagram.svg)
 
 > **Warning:** The RC522 module runs on **3.3V**. Connecting it to 5V will damage the module.
 
